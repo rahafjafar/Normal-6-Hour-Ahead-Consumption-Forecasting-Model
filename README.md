@@ -1,0 +1,1 @@
+# Normal-6-Hour-Ahead-Consumption-Forecasting-Model
